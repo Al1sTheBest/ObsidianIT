@@ -1,6 +1,7 @@
-# Python
+# [[python]]
 
 [# Python — полный курс для начинающих. Этот навык изменит твою жизнь.](https://www.youtube.com/watch?v=wDmPgXhlDIg)
+[Настройка VS Code для работы с Python](https://yandex.ru/video/preview/9415507016414805236)
 
 - [Онлайн-интерпретатор:](https://www.online-python.com/)
 - [Установка Python на компьютер:](https://www.python.org/downloads/)

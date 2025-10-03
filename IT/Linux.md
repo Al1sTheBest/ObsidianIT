@@ -8,4 +8,7 @@
  - [ ] Администрирование Линукс (Linux) https://youtube.com/playlist?list=PLeDR6lYFEHWEUxwSA8OplPLvk50DCVraH&si=FT1yc9RA_jsWSUJJ
  - [x] #ТРАБЛШУТИНГ LINUX // Основные команды, примеры https://www.youtube.com/watch?v=9A3QtGMuqvw
 
-[[ALT Linux]] #altlinux 
+[[ALT Linux]] [[Linux Sec]] #altlinux 
+
+---
+[# Systemd: полное руководство для админов + примеры](https://habr.com/ru/articles/942760/)

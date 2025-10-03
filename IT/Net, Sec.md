@@ -12,3 +12,6 @@
 - [x] [# Лучший Гайд по HTTP для Начинающих за 25 Мин с Нуля](https://www.youtube.com/watch?v=6JzPr_8bMbk)
 - [x] [# Как работает протокол DNS? — система доменных имён.](https://www.youtube.com/watch?v=zF3pUaTUE9I)
 
+
+
+https://www.youtube.com/watch?v=dHy0odLW4xs

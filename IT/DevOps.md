@@ -11,7 +11,8 @@
 
 - [ ] [# Практические задачи для DevOps и системных администраторов | разбор ответов](https://www.youtube.com/watch?v=tj5sEpTVl90)
 
-
+- [ ] [# Как практиковаться Junior DevOps-инженеру](https://youtu.be/_rfYnaXXg3k?si=LnWqHwWMR4BO5KSf)
+- - -
 ## Доп инфа
 
 - [ ] [# Что такое API? Простыми Словами Для Начинающих](https://www.youtube.com/watch?v=lH2a0A6NO34)

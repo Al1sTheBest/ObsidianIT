@@ -1,0 +1,7 @@
+{
+  "dailyMemosHeader": "Memos",
+  "memosAPIVersion": "v0.19.1",
+  "memosAPIURL": "http://localhost:5230",
+  "memosAPIToken": "eyJhbGciOiJIUzI1NiIsImtpZCI6InYxIiwidHlwIjoiSldUIn0.eyJuYW1lIjoiIiwiaXNzIjoibWVtb3MiLCJzdWIiOiIxIiwiYXVkIjpbInVzZXIuYWNjZXNzLXRva2VuIl0sImV4cCI6MTc1ODYzNjcyNiwiaWF0IjoxNzU4MDMxOTI2fQ.kmKoxio_NsSUBaw6xaDJ8CCVyAYTC8oJjk9-DY5kw8g",
+  "attachmentFolder": "Attachments"
+}

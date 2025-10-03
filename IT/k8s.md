@@ -6,3 +6,22 @@
 - vault база [https://habr.com/ru/companies/jetinfosystems/articles/762194/](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqa0QwSXc2UUJLWGg5bGQwOFFwNDFXSDdTZUNjQXxBQ3Jtc0ttQU85dlFNU0pJelh4SFhpTGFYYTdDNFN3RjE2RzhyNVF0akFTQmY2TnZvdkVobGR2LXRXN2wteEVYVlRwUXcwam0tWUFfZ1VmX3BneWdSWUdjN2ZzdDQxa0F6b3NYRnB6b1lKQUFfZFBRdDhfMGlxQQ&q=https%3A%2F%2Fhabr.com%2Fru%2Fcompanies%2Fjetinfosystems%2Farticles%2F762194%2F) 
 - vault с k8s [https://habr.com/ru/companies/ru_mts/articles/880594/](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbHROaVUtM25wM1E4X1c0bVVJcFVScFptckVQZ3xBQ3Jtc0tsaHFDeDVIX21VUnBXeUNnbTRFTHlOZmUyel9mMHlRcnFaVGR1Q0NHN1FZRmZsQTA2VzJFT0J2MXpJWFQzY0hfcDB6a0ZUc1ktVHhKNUlmdXRCUkRteDVyclhqYWZFMmZya2pWNi11QUJJdXZyZWpfZw&q=https%3A%2F%2Fhabr.com%2Fru%2Fcompanies%2Fru_mts%2Farticles%2F880594%2F) 
 - argocd [https://habr.com/ru/companies/kts/articles/723760/](https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqbUl4aUN3R181aHJ5ZFBvRGxIcEJsaWN5UUdNUXxBQ3Jtc0trZ2oyQmszbjRUdmJxeUdKLWFmVW5EZXF1N2dmd2x6RkwzZWFRcW5pWU9RUFlQMUdjVWE1elhtb1FsbFcxRTM4emxPMW9sNjFsbWpUTmtFU2xvWUM5NV9QdUpWMGdULTdrMW1TSjkzSGNZbkNxT3ZyMA&q=https%3A%2F%2Fhabr.com%2Fru%2Fcompanies%2Fkts%2Farticles%2F723760%2F)
+
+# Видео #гайды
+
+
+- [x] [# Kubernetes — Простым Языком на Понятном Примере](https://www.youtube.com/watch?v=TwyhnBDOHPw)
+
+
+- - - 
+# необходимые команды
+
+#minikube
+
+==minikube start== # запуск без ограничений
+			==minikube start --memory=12288 --driver=docker== # запуск с ограничением памяти
+==minikube stop==
+==minikube dashborad==
+
+==kubectl==
+==kubectl top pods -n default== # выводит использование ресурсов (CPU, памяти, хранилища) подов в пространстве имён по умолчанию**.
